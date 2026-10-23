@@ -148,6 +148,7 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         </td>
         <td>
             Humanoid Robots:
+            <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/h2x_description" target="_blank" rel="noopener noreferrer">H2-X</a>,
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/r1_description" target="_blank" rel="noopener noreferrer">R1</a>,
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/r1_air_description" target="_blank" rel="noopener noreferrer">R1 Air</a>,
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/r1d_description" target="_blank" rel="noopener noreferrer">R1-A7-D</a>,
@@ -156,7 +157,7 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/h2d_description" target="_blank" rel="noopener noreferrer">H2-D</a>,
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/g1_d_description" target="_blank" rel="noopener noreferrer">G1-D</a>,
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/g1_description" target="_blank" rel="noopener noreferrer">G1</a>,
-          <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/g1_description/g1_pl.urdf" target="_blank" rel="noopener noreferrer">G1+</a>,
+            <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/g1_description/g1_pl.urdf" target="_blank" rel="noopener noreferrer">G1+</a>,
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/g1_with_brainco_hand" target="_blank" rel="noopener noreferrer">G1 with Brainco Hand</a>,
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/h1_2_description" target="_blank" rel="noopener noreferrer">H1-2</a>,
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/h1_description" target="_blank" rel="noopener noreferrer">H1</a>
