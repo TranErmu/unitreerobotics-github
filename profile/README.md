@@ -75,7 +75,7 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_mujoco?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     <tr>
-        <td colspan="1" rowspan="4" align="center" class="ai-notebooks-table-points ai-orange-link">
+        <td colspan="1" rowspan="5" align="center" class="ai-notebooks-table-points ai-orange-link">
             <a href="https://github.com/unitreerobotics" target="_blank"> Manipulation</a>
         </td>
         <td>
@@ -108,6 +108,11 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/teleimager?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/unitreerobotics/unitree_robotskills" target="_blank"> unitree_robotskills</a> <br> Robot skill framework that connects frontier AI models (GPT-6 Astra, Claude Opus, ...) to Unitree robots (G1-D, R1-D): the model observes the scene, reasons and calls robot skills such as painting, Gomoku, Chinese chess and navigation. </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_robotskills?style=flat-square&cacheSeconds=86400"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_robotskills?style=flat-square&cacheSeconds=86400"/></td>
+    </tr>
+    <tr>
         <td colspan="1" rowspan="1" align="center" class="ai-notebooks-table-points ai-orange-link">
             <a href="https://github.com/unitreerobotics" target="_blank"> UniStore </a>
         </td>
@@ -116,7 +121,7 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree-app-templates?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     <tr>
-        <td colspan="1" rowspan="4" align="center" class="ai-notebooks-table-points ai-orange-link">
+        <td colspan="1" rowspan="7" align="center" class="ai-notebooks-table-points ai-orange-link">
             <a href="https://github.com/unitreerobotics" target="_blank"> Robot SDK</a>
         </td>
         <td><a href="https://github.com/unitreerobotics/unitree_sdk2" target="_blank"> unitree_sdk2</a> <br> An SDK package used to develop Go2, B2, H1, G1, H2, R1, A2 robots in real environments. </td>
@@ -137,6 +142,21 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         <td><a href="https://github.com/unitreerobotics/unitree_legged_sdk" target="_blank"> unitree_legged_sdk </a> <br> An SDK package used to develop Aliengo, A1, Go1 and B1 robots in real environments. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_legged_sdk?style=flat-square&cacheSeconds=86400"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_legged_sdk?style=flat-square&cacheSeconds=86400"/></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/unitreerobotics/r1-7a_sdk" target="_blank"> r1-7a_sdk</a> <br> Low-level control SDK for the R1 7-DOF robotic arm over the IM6014 serial bus: FOC / stop / home / goto examples, left and right hand support, URDF and STEP files. </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/r1-7a_sdk?style=flat-square&cacheSeconds=86400"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/r1-7a_sdk?style=flat-square&cacheSeconds=86400"/></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/unitreerobotics/D2-Arm" target="_blank"> D2-Arm</a> <br> Delivery package for the D2 robotic arm: ArmEcho host software (Docker image + <code>armecho-compose.yml</code>), a Python SDK with prebuilt wheels for CPython 3.10 / 3.11 / 3.12 and examples, and the <code>D2_URDF</code> ROS model package. </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/D2-Arm?style=flat-square&cacheSeconds=86400"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/D2-Arm?style=flat-square&cacheSeconds=86400"/></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/unitreerobotics/unitree_actuator_sdk" target="_blank"> unitree_actuator_sdk</a> <br> SDK for Unitree GO-M8010-6, A1 and B1 motors: serial-bus register access, mode configuration and control examples (x86 / ARM). </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_actuator_sdk?style=flat-square&cacheSeconds=86400"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_actuator_sdk?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     <tr>
         <td align="center">
