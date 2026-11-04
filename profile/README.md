@@ -121,27 +121,12 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree-app-templates?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     <tr>
-        <td colspan="1" rowspan="7" align="center" class="ai-notebooks-table-points ai-orange-link">
+        <td colspan="1" rowspan="5" align="center" class="ai-notebooks-table-points ai-orange-link">
             <a href="https://github.com/unitreerobotics" target="_blank"> Robot SDK</a>
         </td>
-        <td><a href="https://github.com/unitreerobotics/unitree_sdk2" target="_blank"> unitree_sdk2</a> <br> An SDK package used to develop Go2, B2, H1, G1, H2, R1, A2 robots in real environments. </td>
+        <td><a href="https://github.com/unitreerobotics/unitree_sdk2" target="_blank"> unitree_sdk2</a> <br> An SDK package used to develop Go2, B2, H1, G1, H2, R1, A2 robots in real environments. <br>Bindings: [<a href="https://github.com/unitreerobotics/unitree_sdk2_python" target="_blank"> unitree_sdk2_python </a> <img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_sdk2_python?style=flat-square&cacheSeconds=86400" height="15" align="absmiddle"/></a> <img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_sdk2_python?style=flat-square&cacheSeconds=86400" height="15" align="absmiddle"/> | <a href="https://github.com/unitreerobotics/unitree_sdk2_rs" target="_blank"> unitree_sdk2_rs </a> <img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_sdk2_rs?style=flat-square&cacheSeconds=86400" height="15" align="absmiddle"/> <img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_sdk2_rs?style=flat-square&cacheSeconds=86400" height="15" align="absmiddle"/> ]</td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_sdk2?style=flat-square&cacheSeconds=86400"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_sdk2?style=flat-square&cacheSeconds=86400"/></td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/unitreerobotics/unitree_sdk2_python" target="_blank"> unitree_sdk2_python</a> <br> Python interface for unitree_sdk2. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_sdk2_python?style=flat-square&cacheSeconds=86400"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_sdk2_python?style=flat-square&cacheSeconds=86400"/></td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/unitreerobotics/unitree_sdk2_rs" target="_blank"> unitree_sdk2_rs</a> <br> Rust interface for unitree_sdk2 with C++ SDK2 bindings. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_sdk2_rs?style=flat-square&cacheSeconds=86400"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_sdk2_rs?style=flat-square&cacheSeconds=86400"/></td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/unitreerobotics/unitree_legged_sdk" target="_blank"> unitree_legged_sdk </a> <br> An SDK package used to develop Aliengo, A1, Go1 and B1 robots in real environments. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_legged_sdk?style=flat-square&cacheSeconds=86400"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_legged_sdk?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     <tr>
         <td><a href="https://github.com/unitreerobotics/r1-7a_sdk" target="_blank"> r1-7a_sdk</a> <br> Low-level control SDK for the R1 7-DOF robotic arm over the IM6014 serial bus: FOC / stop / home / goto examples, left and right hand support, URDF and STEP files. </td>
@@ -157,6 +142,11 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         <td><a href="https://github.com/unitreerobotics/unitree_actuator_sdk" target="_blank"> unitree_actuator_sdk</a> <br> SDK for Unitree GO-M8010-6, A1 and B1 motors: serial-bus register access, mode configuration and control examples (x86 / ARM). </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_actuator_sdk?style=flat-square&cacheSeconds=86400"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_actuator_sdk?style=flat-square&cacheSeconds=86400"/></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/unitreerobotics/unitree_legged_sdk" target="_blank"> unitree_legged_sdk </a> <br> An SDK package used to develop Aliengo, A1, Go1 and B1 robots in real environments. </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_legged_sdk?style=flat-square&cacheSeconds=86400"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_legged_sdk?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     <tr>
         <td align="center">
